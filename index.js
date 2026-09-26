@@ -1,5 +1,0 @@
-if (typeof require !== 'undefined') {
-  eval("require('dotenv').config()")
-}
-
-console.log("Hello, JS!")
